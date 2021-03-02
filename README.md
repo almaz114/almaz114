@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @almaz114
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ... Data Analyz / Visualition / Auto Trading
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Data Analyz / Visualisation / Auto Trading for Fx
+- 💞️ I’m looking to collaborate on ... Auto Trading
 - 📫 How to reach me ...
 
 <!---
